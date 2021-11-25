@@ -2,11 +2,7 @@ This is my generic resume.
 
 ## Usage
 
-To generate the PDF:
-
-```sh
-pdflatex resume.tex
-```
+To generate the PDF, run `make`.
 
 ## Requirements
 
